@@ -1,7 +1,5 @@
 My New File.
-<<<<<<< HEAD
 Feature1
-=======
 
 Main Changes
->>>>>>> main
+More
