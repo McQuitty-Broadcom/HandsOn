@@ -2,8 +2,5 @@ My New File.
 Feature1
 
 Main Changes
-Dierk's Change
-asd
-
-FEATURE2
-E FIX
+More
+Feature3 
